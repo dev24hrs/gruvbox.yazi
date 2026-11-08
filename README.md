@@ -9,7 +9,7 @@ Local Yazi flavor using the **Gogh Gruvbox Dark** palette, matching `Gruvbox Dar
 **Using package manager**
 
 ```bash
-ya pkg add dev24hrs/gruvbox.yazi
+ya pkg add dev24hrs/gruvbox
 ```
 
 ## Usage
@@ -39,4 +39,3 @@ Sources:
 - <https://gogh.website>
 - <https://github.com/Gogh-Co/Gogh/blob/master/themes/Gruvbox%20Dark.yml>
 - <https://yazi-rs.github.io/docs/flavors/overview>
-
