@@ -212,32 +212,32 @@ rules = [
 # gruvbox palette so the icons stay readable in both dark and light presets.
 prepend_exts = [
   # Shell scripts
-  { name = "sh",   text = "", fg = "#fe8019" },
+  { name = "sh", text = "", fg = "#fe8019" },
   { name = "bash", text = "", fg = "#fe8019" },
-  { name = "zsh",  text = "", fg = "#fe8019" },
+  { name = "zsh", text = "", fg = "#fe8019" },
   { name = "fish", text = "", fg = "#fe8019" },
-  { name = "ksh",  text = "", fg = "#fe8019" },
-  { name = "csh",  text = "", fg = "#fe8019" },
-  { name = "nu",   text = "", fg = "#fe8019" },
+  { name = "ksh", text = "", fg = "#fe8019" },
+  { name = "csh", text = "", fg = "#fe8019" },
+  { name = "nu", text = "", fg = "#fe8019" },
   # Markdown
   { name = "md", text = "", fg = "#83a598" },
   # Config files
-  { name = "toml",     text = "", fg = "#d3869b" },
-  { name = "yaml",     text = "", fg = "#8ec07c" },
-  { name = "yml",      text = "", fg = "#8ec07c" },
-  { name = "conf",     text = "", fg = "#8ec07c" },
-  { name = "config",   text = "", fg = "#8ec07c" },
-  { name = "ini",      text = "", fg = "#8ec07c" },
+  { name = "toml", text = "", fg = "#d3869b" },
+  { name = "yaml", text = "", fg = "#8ec07c" },
+  { name = "yml", text = "", fg = "#8ec07c" },
+  { name = "conf", text = "", fg = "#8ec07c" },
+  { name = "config", text = "", fg = "#8ec07c" },
+  { name = "ini", text = "", fg = "#8ec07c" },
   { name = "makefile", text = "", fg = "#8ec07c" },
-  { name = "mk",       text = "", fg = "#8ec07c" },
+  { name = "mk", text = "", fg = "#8ec07c" },
 ]
 
 prepend_files = [
-  { name = "readme",    text = "󰂺", fg = "#fabd2f" },
+  { name = "readme", text = "󰂺", fg = "#fabd2f" },
   { name = "readme.md", text = "󰂺", fg = "#fabd2f" },
-  { name = "license",   text = "", fg = "#fabd2f" },
-  { name = "config",    text = "", fg = "#8ec07c" },
-  { name = "makefile",  text = "", fg = "#8ec07c" },
+  { name = "license", text = "", fg = "#fabd2f" },
+  { name = "config", text = "", fg = "#8ec07c" },
+  { name = "makefile", text = "", fg = "#8ec07c" },
 ]
 
 dirs = [
