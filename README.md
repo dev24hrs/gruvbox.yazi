@@ -9,7 +9,7 @@ Local Yazi flavor using the **Gogh Gruvbox Dark** palette, matching `Gruvbox Dar
 **Using package manager**
 
 ```bash
-ya pkg add dev24hrs/gruvbox
+ya pkg add x3m4g63/gruvbox
 ```
 
 ## Usage
